@@ -8,3 +8,9 @@ This has following advantages:
 * Modern testing env with nice diffs
 
 Related issue here: https://github.com/exercism/xecmascript/issues/272
+
+### Steps to run tests:
+
+* `cd` into any exercise directory.
+* For the first time, you will have to install all required dependencies using `npm install`.
+* Run the tests using `npm test`.
